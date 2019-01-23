@@ -1,8 +1,8 @@
 #include<stdio.h>
 int main()
 {
-int i;
-printf("this is student module");
+int i=100;
+printf("this is student module of %d",i);
 
 getch();
 }
