@@ -2,7 +2,7 @@
 int main()
 {
 int i;
-printf("Enter the value of i:");
+printf("this is student module");
 
 getch();
 }
